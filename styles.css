@@ -1,4 +1,22 @@
-h1 {
-    background-color: lightpink;
+body {
+    background-color: black;
     text-align: center;
+}
+
+img {
+    width: 1500px;
+    text-align: center;
+    margin: 10px;
+}
+
+a {
+    color: white;
+}
+
+.start-button{
+    background-color: blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
