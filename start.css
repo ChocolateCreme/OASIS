@@ -64,3 +64,16 @@ a{
 .module-button:active{
     background-color: skyblue;
 }
+
+.back-button{
+    background-color: blue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    text-decoration: none;
+    color: white;
+}
