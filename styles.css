@@ -15,8 +15,12 @@ a {
 
 .start-button{
     background-color: blue;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    text-decoration: none;
 }
