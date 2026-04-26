@@ -77,3 +77,11 @@ a{
     text-decoration: none;
     color: white;
 }
+
+.back-button:hover{
+    background-color: blueviolet;
+}
+
+.back-button:active{
+    background-color: skyblue;
+}

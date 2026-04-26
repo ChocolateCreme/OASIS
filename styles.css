@@ -24,3 +24,11 @@ a {
     box-shadow: 5px 5px 5px lightgray;
     text-decoration: none;
 }
+
+.start-button:hover{
+    background-color: blueviolet;
+}
+
+.start-button:active{
+    background-color: skyblue;
+}

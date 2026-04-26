@@ -1,0 +1,61 @@
+body{
+    width: 1500px;
+    height: 710px;
+    background: radial-gradient(blue, cornflowerblue);
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.back-button{
+    background-color: blue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    text-decoration: none;
+    color: white;
+}
+
+.back-button:hover{
+    background-color: blueviolet;
+}
+
+.back-button:active{
+    background-color: skyblue;
+}
+
+.module{
+    background-color: black;
+    font-size: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: whitesmoke;
+    display: flex;
+    height: 30px;
+    width: 300px;
+    margin: 10px auto;
+    box-shadow: -5px -5px 5px aquamarine;
+}
+
+a{
+    text-align: center;
+    padding-top: 10px;
+    justify-content: center;
+}
